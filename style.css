@@ -1,0 +1,25 @@
+#start_button
+{
+    width: 40%;
+} 
+#webcam
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#result 
+{
+   width: 360px; 
+   height: 250px;
+   border:1px solid grey;
+}
